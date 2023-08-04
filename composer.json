@@ -1,0 +1,21 @@
+{
+  "name": "bensonirah/php-design-pattern",
+  "description": "A collection of php design pattern by practice in php",
+  "type": "project",
+  "require": {
+    "symfony/var-dumper": "^5.4"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "bensonirah",
+      "email": "bensonirah@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
